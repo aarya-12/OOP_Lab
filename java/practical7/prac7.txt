@@ -1,0 +1,4 @@
+Bottle,150,Tupperware,20
+Notebook,100,Classmate,15
+Pen,200,Parker,10
+iPhone,100000,Apple,55
